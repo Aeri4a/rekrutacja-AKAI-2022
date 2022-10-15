@@ -1,0 +1,26 @@
+[
+  {
+    "base_currency": "PLN",
+    "target_currency": "EUR",
+    "date_fetched": "2022-08-01",
+    "ratio": 0.211199
+  },
+  {
+    "base_currency": "PLN",
+    "target_currency": "USD",
+    "date_fetched": "2022-08-01",
+    "ratio": 0.21572
+  },
+  {
+    "base_currency": "USD",
+    "target_currency": "EUR",
+    "date_fetched": "2022-10-15",
+    "ratio": 1.029467
+  },
+  {
+    "base_currency": "PLN",
+    "target_currency": "CZK",
+    "date_fetched": "2022-07-31",
+    "ratio": 5.19469
+  }
+]
